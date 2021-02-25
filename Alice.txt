@@ -1,3 +1,3 @@
 Hi! I'm Alice. I'm a file someone made a change to on the remote!
 Then a bit later someone made another remote change.
-1234 change on remote for fetching_changes_sample tutorial
+change on remote for fetching_changes_sample tutorial  There we're also again going to change Alice.txt and commit the change.
